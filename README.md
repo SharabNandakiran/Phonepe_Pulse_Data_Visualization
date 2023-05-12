@@ -1,4 +1,3 @@
-![image](https://github.com/SharabNandakiran/Phonepe_Pulse_Data_Visualization/assets/129741286/2a78ed73-6983-4185-af6d-6bfefd7f6bcf)
 # Phonepe_Pulse_Data_Visualization
 
 Data Visualization and Exploration : A User-Friendly Tool Using Streamlit and Plotly
